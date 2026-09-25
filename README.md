@@ -74,7 +74,7 @@ Selected work framed as **Situation → Task → Action → Result**.
 
 ## 🤝 Work With Me
 
-I work directly with founders — no account managers, no handoffs:
+I work directly with everyone I build for — businesses, startups, teams and individuals. No account managers, no handoffs:
 
 - **🤖 AI Automation** — automate the work that eats your day
 - **💬 AI Chatbots** — your business, in AI form (not a wrapper)
@@ -137,6 +137,6 @@ I work directly with founders — no account managers, no handoffs:
 
 <br>
 
-*Open to AI product builds, automation projects, and collaborations with founders who want to ship something real.*
+*Open to AI product builds, automation projects, and collaborations with anyone who wants to ship something real.*
 
 </div>
