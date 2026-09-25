@@ -41,7 +41,6 @@ open_to:
   - Remote AI & Backend Engineer roles
   - Freelance & contract projects
   - Open-source collaborations
-  - Hackathon teams
 ```
 
 ---
