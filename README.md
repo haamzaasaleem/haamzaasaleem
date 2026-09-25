@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://cybersialabs.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F9FD6&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;Founder+%40+Cybersia+Labs;Idea+%E2%86%92+Shipped+AI+Product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F9FD6&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;AI+Engineer+%40+Cybersia+Labs;Idea+%E2%86%92+Shipped+AI+Product" alt="Typing SVG" />
 </a>
 
 <br>
 
 ![AI Products](https://img.shields.io/badge/AI_PRODUCTS-SHIPPED_%26_LIVE-2ea44f?style=for-the-badge&labelColor=555555)
-![Founder](https://img.shields.io/badge/FOUNDER-CYBERSIA_LABS-1F9FD6?style=for-the-badge&labelColor=555555)
+![Cybersia Labs](https://img.shields.io/badge/AI_ENGINEER-CYBERSIA_LABS-1F9FD6?style=for-the-badge&labelColor=555555)
 
 🚀 **Builder** • 🤖 **AI Automation & Chatbots** • 🌍 **Working with founders worldwide**
 
@@ -19,7 +19,7 @@
 
 ```yaml
 name: Hamza Saleem
-role: Founder & AI Product Engineer @ Cybersia Labs
+role: AI Product Engineer @ Cybersia Labs
 website: cybersialabs.com
 
 what_i_do:
