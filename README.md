@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://cybersialabs.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F9FD6&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Engineer;AI+%26+Backend+Engineer+%40+Cybersia+Labs;Idea+%E2%86%92+Shipped+AI+Product" alt="AI & Backend Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F9FD6&center=true&vCenter=true&width=720&lines=AI+%26+Backend+Engineer;AI+%26+Backend+Engineer+%40+Cybersia+Labs;Idea+%E2%86%92+Shipped+AI+Product" alt="AI & Backend Engineer" />
 </a>
 
 <br>
@@ -19,9 +19,6 @@
 
 ```yaml
 name: Hamza Saleem
-role: AI & Backend Engineer @ Cybersia Labs
-website: cybersialabs.com
-email: haamzaasaleem@gmail.com
 
 what_i_do:
   - Building AI automation that runs 24/7 (workflows, email, reports)
@@ -41,9 +38,10 @@ currently_building:
   - ⚙️ Production-grade RAG pipelines
 
 open_to:
-  - AI product builds for founders & startups
-  - Automation & chatbot projects
-  - Collaborations on open-source AI tooling
+  - Remote AI & Backend Engineer roles
+  - Freelance & contract projects
+  - Open-source collaborations
+  - Hackathon teams
 ```
 
 ---
