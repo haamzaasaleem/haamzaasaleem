@@ -1,15 +1,13 @@
 <div align="center">
 
-<a href="https://cybersialabs.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F9FD6&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;AI+Engineer+%40+Cybersia+Labs;Idea+%E2%86%92+Shipped+AI+Product" alt="Typing SVG" />
-</a>
+# Hi, I'm Hamza 👋
 
-<br>
+### AI Product Engineer @ [Cybersia Labs](https://cybersialabs.com)
 
 ![AI Products](https://img.shields.io/badge/AI_PRODUCTS-SHIPPED_%26_LIVE-2ea44f?style=for-the-badge&labelColor=555555)
 ![Cybersia Labs](https://img.shields.io/badge/AI_ENGINEER-CYBERSIA_LABS-1F9FD6?style=for-the-badge&labelColor=555555)
 
-🚀 **Builder** • 🤖 **AI Automation & Chatbots** • 🌍 **Working with founders worldwide**
+🚀 **Builder** • 🤖 **AI Automation & Chatbots** • 🌍 **Working with clients worldwide**
 
 </div>
 
@@ -125,28 +123,6 @@ I work directly with founders — no account managers, no handoffs:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
-
-<details>
-<summary><b>📊 GitHub Metrics</b></summary>
-<br>
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=haamzaasaleem&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haamzaasaleem&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=haamzaasaleem&theme=tokyonight&hide_border=true)
-
-</div>
-</details>
-
-<details>
-<summary><b>🟩 3D Contribution Graph</b></summary>
-<br>
-<div align="center">
-
-![3D contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-</details>
 
 ---
 
