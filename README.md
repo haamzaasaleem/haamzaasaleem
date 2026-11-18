@@ -49,19 +49,19 @@ open_to:
 
 Selected work framed as **Situation → Task → Action → Result**.
 
-- 🚗 **Car Rental AI Platform** — *France*
-  - **Situation:** A car rental agency was losing time answering the same client enquiries and managing bookings by hand.
-  - **Task:** Automate enquiries and bookings end to end, in multiple languages.
-  - **Action:** Built a WhatsApp AI agent with automated booking, Stripe payments and live fleet tracking.
-  - **Result:** Clients get answers and can book 24/7, with no manual back-and-forth.
-  - `Python` `WhatsApp API` `LLM` `Stripe`
-
 - 💇 **Booking AI for Salons & Spas** — *SaaS*
   - **Situation:** Beauty and wellness professionals miss bookings when they can't answer messages.
   - **Task:** Give each business an assistant that handles clients around the clock.
   - **Action:** Built a multilingual RAG booking assistant that also generates a professional booking mini-site for each business.
   - **Result:** Businesses get a 24/7 booking assistant and a web presence out of the box.
   - `LLM` `RAG` `Multilingual` `SaaS`
+
+ - 🚗 **Car Rental AI Platform** — *France*
+  - **Situation:** A car rental agency was losing time answering the same client enquiries and managing bookings by hand.
+  - **Task:** Automate enquiries and bookings end to end, in multiple languages.
+  - **Action:** Built a WhatsApp AI agent with automated booking, Stripe payments and live fleet tracking.
+  - **Result:** Clients get answers and can book 24/7, with no manual back-and-forth.
+  - `Python` `WhatsApp API` `LLM` `Stripe`
 
 - 🗣️ **AI Language Learning Platform** — *SaaS*
   - **Situation:** Learners lack affordable, on-demand speaking practice.
